@@ -1,129 +1,833 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/intro/</loc>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/txsign/address/</loc>
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/getstart/</loc>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/encode_decode/qxbase58/</loc>
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/tutorials/</loc>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/development-environment/</loc>
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/qxtools/</loc>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/encode_decode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/entropy/seed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getbestblockhash/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://halalchain.github.io/docs/cn/qxtools/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://halalchain.github.io/docs/ar/qxtools/"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getbestblockhash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://halalchain.github.io/docs/en/qxtools/"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getbestblockhash/"
                 />
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/qitmeer-cli/</loc>
-  </url>
-  
-  <url>
-    <loc>https://halalchain.github.io/docs/en/faqs/</loc>
-  </url>
-  
-  <url>
-    <loc>https://halalchain.github.io/docs/en/glossary/</loc>
-  </url>
-  
-  <url>
-    <loc>https://halalchain.github.io/docs/en/tutorials/qitmeer-docker-test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://halalchain.github.io/docs/en/test/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://halalchain.github.io/docs/ar/test/"
-                />
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblock/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://halalchain.github.io/docs/cn/test/"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblock/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://halalchain.github.io/docs/en/test/"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblock/"
                 />
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/categories/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://halalchain.github.io/docs/ar/categories/"
-                />
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblockbynum/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://halalchain.github.io/docs/cn/categories/"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblockbynum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://halalchain.github.io/docs/en/categories/"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblockbynum/"
                 />
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://halalchain.github.io/docs/ar/"
-                />
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblockbyorder/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://halalchain.github.io/docs/cn/"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblockbyorder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://halalchain.github.io/docs/en/"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblockbyorder/"
                 />
   </url>
   
   <url>
-    <loc>https://halalchain.github.io/docs/en/tags/</loc>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://halalchain.github.io/docs/ar/tags/"
-                />
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblockcount/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://halalchain.github.io/docs/cn/tags/"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblockcount/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://halalchain.github.io/docs/en/tags/"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblockcount/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblockhash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblockhashbyrange/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblockhashbyrange/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblockhashbyrange/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblockheader/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblockheader/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblockheader/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblocktemplate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getblocktotal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getblocktotal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getblocktotal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getcoinbase/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getmainchainheight/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getmainchainheight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getmainchainheight/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getnodeinfo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getnodeinfo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getnodeinfo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getorphanstotal/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getorphanstotal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getorphanstotal/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getpeerinfo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getpeerinfo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getpeerinfo/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getutxo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/instruction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/isblue/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/isblue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/isblue/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/iscurrent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/isonmainchain/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/isonmainchain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/isonmainchain/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/qitmeer-installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/qitmeer-js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/qitmeer-miner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/intro/qitmeer-difficulty-description/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/qitmeer-wallet-rpc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/sha256/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/submitblock/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/swap-memory/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/tips/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/txsign/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/encode_decode/qxbase58check/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/blakehash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/getstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/entropy/hd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/qitmeer-atomicswap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/txsign/transaction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/ui/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/add/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/encode_decode/qxbase64/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/createaccount/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/createaddress/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/createrawtransaction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/ui/createwallet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/decoderawtransaction/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/del/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/dumpprivkey/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/wallet-json-rpc-api/wallet/dumpprivkey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/dumpprivkey/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/entropy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getaccountbyaddress/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getaccountsandbalance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getaddressesbyaccount/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getbalancebyaccount/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getbalancebyaddr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getbillbyaddr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/gettx/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/gettxlistbyaddr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/getutxo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/importprivkey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/importwifprivkey/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/keccak256/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/list/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/lock/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/ui/makeseed/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/entropy/mnemonic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/ui/recoverwallet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/reset/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/sendrawtransaction/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/sendrawtransaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/sendrawtransaction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/sendtoaddress/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/sendtoaddressbyaccount/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/sendtomany/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/txsign/sign_verify/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/status/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/syncstats/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tutorials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/wallet/unlock/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/qitmeerd/update/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/wallet-json-rpc-api/ui/walletstatus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/</loc>
+    <lastmod>2019-10-03T10:56:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://qitmeer.github.io/docs/ar/reference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/reference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/reference/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/txsign/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/entropy/ec/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/reference/qxtools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://qitmeer.github.io/docs/ar/reference/qxtools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/reference/qxtools/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/ripemd160/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-miner/</loc>
+    <lastmod>2019-10-03T10:56:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/bitcion160/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-block-dag/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-mining/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-pool-stratum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-tech-architecture/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-tech-highlights/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-tech-roadmap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/qitmeer-token-issuance/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/entropy/wif/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qxtools/hash/hash160/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/faqs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/glossary/</loc>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/</loc>
+    <lastmod>2019-10-03T10:56:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://qitmeer.github.io/docs/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/createrawtransaction/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/decoderawtransaction/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/miner/generate/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getbestblockhash/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblock/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblockbyorder/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblockcount/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblockhash/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblockhashbyrange/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblockheader/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/miner/getblocktemplate/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getblockweight/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/getmainchainheight/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/mempool/getmempool/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/getnodeinfo/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/getpeerinfo/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/getrawtransaction/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/getutxo/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/block/isonmainchain/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/mempool/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/miner/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/sendrawtransaction/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/miner/submitblock/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/reference/qitmeer-cli/blockchain/txsign/</loc>
+    <lastmod>2019-07-29T00:38:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://qitmeer.github.io/docs/ar/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/json-rpc-api/getrawtransaction/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/json-rpc-api/getrawtransaction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/json-rpc-api/getrawtransaction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qitmeer.github.io/docs/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://qitmeer.github.io/docs/ar/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://qitmeer.github.io/docs/cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qitmeer.github.io/docs/en/tags/"
                 />
   </url>
   
